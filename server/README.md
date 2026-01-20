@@ -1,11 +1,11 @@
-# 🎤 Late Show API – Phase 4 Code Challenge
+#  Late Show API – Phase 4 Code Challenge
 
 This project is a Flask REST API for managing Episodes, Guests, and Appearances for a Late Show application.  
 It demonstrates many-to-many relationships, validations, serialization, and RESTful routing using Flask and SQLAlchemy.
 
 ---
 
-## 📦 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Flask
@@ -16,7 +16,7 @@ It demonstrates many-to-many relationships, validations, serialization, and REST
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 lateshow-kollyns-thee-dev/
 │
@@ -32,7 +32,7 @@ lateshow-kollyns-thee-dev/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
